@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Blinks!",
+    "editor": "@blockcode/gui-esp32",
+    "file": "esp32/bcp/Blinks!.bcp",
+    "thumb": "esp32/img/Blinks!.png"
+  }
+]

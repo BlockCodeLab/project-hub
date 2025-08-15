@@ -6,5 +6,9 @@
   {
     "editor": "@blockcode/gui-arduino",
     "import": "arduino/page.json"
+  },
+  {
+    "editor": "@blockcode/gui-esp32",
+    "import": "esp32/page.json"
   }
 ]
