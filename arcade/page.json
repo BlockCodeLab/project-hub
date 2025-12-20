@@ -1,5 +1,12 @@
 [
   {
+    "name": "打鬼",
+    "author": "神鹰创客边老师",
+    "editor": "@blockcode/gui-arcade",
+    "file": "arcade/bcp/Attack_Ghost.bcp",
+    "thumb": "arcade/img/Attack_Ghost.png"
+  },
+  {
     "name": "2048",
     "author": "张砷镓",
     "editor": "@blockcode/gui-arcade",
