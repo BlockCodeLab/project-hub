@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Hello iot:bit!",
+    "editor": "@blockcode/gui-iotbit",
+    "file": "iotbit/bcp/Hello_iotbit!.bcp",
+    "thumb": "iotbit/img/Hello_iotbit!.png"
+  }
+]
