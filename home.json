@@ -10,9 +10,9 @@
   {
     "editor": "@blockcode/gui-esp32",
     "import": "esp32/page.json"
+  },
+  {
+    "editor": "@blockcode/gui-iotbit",
+    "import": "iotbit/page.json"
   }
-{
-  "editor": "@blockcode/gui-iotbit",
-  "import": "iotbit/page.json"
-}
 ]
