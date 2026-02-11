@@ -4,15 +4,10 @@
     "import": "arcade/page.json"
   },
   {
-    "editor": "@blockcode/gui-arduino",
-    "import": "arduino/page.json"
-  },
-  {
-    "editor": "@blockcode/gui-esp32",
-    "import": "esp32/page.json"
-  },
-  {
-    "editor": "@blockcode/gui-iotbit",
+    "editor": "@emakefun/gui-iotbit",
     "import": "iotbit/page.json"
+  },
+  {
+    "import": "device/page.json"
   }
 ]
