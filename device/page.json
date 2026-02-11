@@ -3,13 +3,13 @@
     "name": "Blink!",
     "copyright": "Arduino",
     "editor": "@blockcode/gui-arduino",
-    "file": "arduino/bcp/ArduinoBlink!.bcp",
-    "thumb": "arduino/img/ArduinoBlink!.png"
+    "file": "device/bcp/ArduinoBlink!.bcp",
+    "thumb": "device/img/ArduinoBlink!.png"
   },
   {
     "name": "Blinks!",
     "editor": "@blockcode/gui-esp32",
-    "file": "esp32/bcp/Esp32Blinks!.bcp",
-    "thumb": "esp32/img/Esp32Blinks!.png"
+    "file": "device/bcp/Esp32Blinks!.bcp",
+    "thumb": "device/img/Esp32Blinks!.png"
   }
 ]
