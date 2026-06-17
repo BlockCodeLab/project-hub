@@ -4,5 +4,11 @@
     "editor": "@emakefun/gui-iotbit",
     "file": "iotbit/bcp/Hello_iotbit!.bcp",
     "thumb": "iotbit/img/Hello_iotbit!.png"
+  },
+  {
+    "name": "iot:bit Features Demo",
+    "editor": "@emakefun/gui-iotbit",
+    "file": "iotbit/bcp/iotbit_features.bcp",
+    "thumb": "iotbit/img/iotbit_features.png"
   }
 ]
